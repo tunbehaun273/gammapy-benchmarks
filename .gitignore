@@ -1,4 +1,5 @@
 .idea
+.o* # out files from batch jobs
 
 # github actions
 environment-dev.yml
