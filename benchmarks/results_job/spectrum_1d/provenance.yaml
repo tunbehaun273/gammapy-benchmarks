@@ -1,0 +1,11 @@
+env:
+  machine: x86_64
+  system: Linux
+  user: mppi086h
+software:
+  astropy: 5.1.1
+  gammapy: '1.0'
+  numpy: 1.23.5
+  python_executable: /home/woody/caph/mppi086h/software/anaconda3/envs/gammapy-1.0/bin/python
+  python_version: 3.9.15
+  scipy: 1.9.1
